@@ -221,4 +221,4 @@ This repository serves as the official landing page for SQL Server 2005 SP1. The
 **Get the most recent version of SQL Server 2005 SP1 today!**
 
 ---
-**Last updated:** 2026-09-16 15:16:57 UTC
+**Last updated:** 2026-09-16 19:18:20 UTC
